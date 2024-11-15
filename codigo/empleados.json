@@ -1,0 +1,27 @@
+{
+    "123": {
+        "contrase\u00f1a": "123",
+        "rol": "encargado_stock",
+        "sueldo": 300000.0
+    },
+    "lala": {
+        "contrase\u00f1a": "123",
+        "rol": "cajero",
+        "sueldo": 600000.0
+    },
+    "joaquin": {
+        "contrase\u00f1a": "123",
+        "rol": "cajero",
+        "sueldo": 0
+    },
+    "raul": {
+        "contrase\u00f1a": "123",
+        "rol": "cajero",
+        "sueldo": 0
+    },
+    "gabriel": {
+        "contrase\u00f1a": "123",
+        "rol": "cajero",
+        "sueldo": "200000"
+    }
+}
